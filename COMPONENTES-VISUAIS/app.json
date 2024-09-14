@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "aula_06_1_componentes_visuais",
+    "slug": "snack-05ef8dc5-84aa-4a0b-b4a7-1fcfe0916e3e",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "[AULA 06] - Tela de login efetuando uma chamada a uma API externa para efetuar uma autenticação"
+  }
+}
